@@ -1,9 +1,7 @@
 # Huffman-Coding
 
-时间：2017年12月
+Huffman coding and decoding for data structure project
 
-地点：ZZU
 
-科目：数据结构
+2018.12
 
-内容：数据结构课程设计（哈夫曼编/译码器）
